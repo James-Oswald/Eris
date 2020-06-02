@@ -1,6 +1,6 @@
 # Eris
 A game in Java made on a custom 3D game engine. Made with LWJGL, OpenGL, glfw, and JOML.
-This Project was made back in 2017 as my final project for my AP Java class. 
+This Project was made back in 2017 as my final project for my AP Java class, but research and prototyping for it began as far back as summer 2016. 
 Unfortunately, I lost the compile script for it long long ago. However I have included all of the
 .class files as the were and testing it years later in 2020, It still works if you run it using Java 8.
 
